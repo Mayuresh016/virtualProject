@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "is-redis",
+    "type": "java.lang.String",
+    "description": "A description for 'is-redis'"
+  },
+  {
+    "name": "redis-url",
+    "type": "java.lang.String",
+    "description": "A description for 'redis-url'"
+  },
+  {
+    "name": "redis-auth",
+    "type": "java.lang.String",
+    "description": "A description for 'redis-auth'"
+  }
+]}
